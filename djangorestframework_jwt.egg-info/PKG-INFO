@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: djangorestframework-jwt-v2
-Version: 1.11.0
+Version: 1.11.1
 Summary: JSON Web Token based authentication for Django REST framework
 Home-page: https://github.com/edmon1024/djangorestframework-jwt-v2
 Author: Jose Padilla
